@@ -1,0 +1,2 @@
+1. use program called upx to decompress file.
+2. use gdb set break point before program exit and examine value in register.

@@ -1,0 +1,1 @@
+overflow initail value of passcode1 with address of fflush fuction and enter instruction address after checking part.

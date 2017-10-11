@@ -1,0 +1,1 @@
+rand() is predictable examine register by print
