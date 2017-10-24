@@ -1,0 +1,1 @@
+sleep(time(0)%20) has a problem allow we to enter input to pw_buff
